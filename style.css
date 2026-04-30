@@ -1,10 +1,24 @@
 body {
-    font-family: Arial;
-    text-align: center;
+  font-family: 'Segoe UI';
+  background-color: #f4f6f9;
 }
 
-.card {
-    background: lightblue;
-    margin: 10px;
-    padding: 20px;
+.navbar-custom {
+  background: #1e293b;
+  padding: 12px;
+}
+
+.navbar-custom a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.navbar-custom a:hover {
+  color: #38bdf8;
+}
+
+.btn-custom {
+  background: #0ea5e9;
+  color: white;
 }
